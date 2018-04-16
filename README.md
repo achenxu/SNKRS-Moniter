@@ -1,5 +1,7 @@
 # Nike Stock Moniter
 
+## Please look at this link before using this project
+https://github.com/MJC17/SNKRS-Moniter/tree/master/Data%20Collected%20From%20Nike
 
 ## Todo list
 - [ ] Finish Front-end (Better Disgined UI)
@@ -12,3 +14,4 @@
 * Adidus
 * SNS (Sneakers n' Stuff)
 * KITH
+
